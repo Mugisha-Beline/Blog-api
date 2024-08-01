@@ -1,7 +1,7 @@
 
 # A Blog REST API App using ExpressJs, MongoDB, NodeJs and Typescript
 
-This repo helps you to get started with ExpressJs, MongoDB, NodeJs and Typescript in docker Environment.
+This project is a backend application for managing a blog creation. It is built using TypeScript, Express.js, PostgreSQL. The application allows users to create an account, login, view blogs , add new blog post, update their existing blog post, and delete blog post. Authentication is implemented using tokens, which need to be included in the request headers for protected routes.
 
 ## Setup and Run Locally with or without using Docker
 
